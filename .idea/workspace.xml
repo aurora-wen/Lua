@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab21dfda-a6d7-42e1-b68a-0df3d83604f7" name="Changes" comment="fix">
-      <change afterPath="$PROJECT_DIR$/src/test/compile_test.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/struct_test.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/lua_data.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/dataPersistence_test.lua" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/recursion.lua" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/recursion_test.lua" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
