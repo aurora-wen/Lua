@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab21dfda-a6d7-42e1-b68a-0df3d83604f7" name="Changes" comment="fix">
-      <change afterPath="$PROJECT_DIR$/src/data/lua_data.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/dataPersistence_test.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/metatable_test.lua" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
