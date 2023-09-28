@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab21dfda-a6d7-42e1-b68a-0df3d83604f7" name="Changes" comment="fix">
-      <change afterPath="$PROJECT_DIR$/src/test/metatable_test.lua" afterDir="false" />
+    <list default="true" id="ab21dfda-a6d7-42e1-b68a-0df3d83604f7" name="Changes" comment="feat：新增元表、原方法示例代码">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/metatable_test.lua" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/metatable_test.lua" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +105,8 @@
     <MESSAGE value="fix" />
     <MESSAGE value="feat:some lua test code" />
     <MESSAGE value="feat:新增迭代器示例代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:新增迭代器示例代码" />
+    <MESSAGE value="feat：新增元表、原方法示例代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：新增元表、原方法示例代码" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
