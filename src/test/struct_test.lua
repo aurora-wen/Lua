@@ -34,6 +34,7 @@ function listTest()
     local list = nil
     for i = 1, 3 do
         list = { next = list, value = i }
+        print(list)
     end
     local l = list
     while l do
